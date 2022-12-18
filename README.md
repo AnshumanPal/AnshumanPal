@@ -1,12 +1,3 @@
-MasterHead
-
-
-
-
-MasterHead
-
-
-
 
 
 MERN Developer
@@ -18,7 +9,7 @@ Coding
 💬 About me ...
 
 🌍 I'm from Farrukhabad Uttar Pradesh.
-💬 My portfolio is [https://sunaina-bawa.github.io/]
+💬 My portfolio is []
 ✉️ You can contact me at anshuman.pal01@gmail.com
 🧠 I'm learning MERN Stack Developer.
 🤔 I’m looking for help with Competitive Programming
