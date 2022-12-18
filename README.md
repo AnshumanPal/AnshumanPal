@@ -21,6 +21,7 @@ Coding
 🛠️ Tech Stack and FrameWorks:
 
 Javascript Java   Raect   Node   html5 Css3 git Github AWS Visual Studio Code postman Netlify Netlify
+https://github-readme-stats.vercel.app/api/top-langs/?username=fahisayub&layout=compact&border_radius=20
 
 
 
