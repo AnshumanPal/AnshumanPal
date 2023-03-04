@@ -18,9 +18,9 @@ working on various projects through remote collaboration.</h4>
 
 - 💼 [My Portfolio ](https://anshuman-pal-portfolio.netlify.app/)
 
-- 🤝 Group Project  [IndiaMart - Clone](https://github.com/AnupKamble/IndiaMart-Clone)
+- 🤝 Group Project  [Myntra - Clone](https://github.com/PrabhatAcharya/Myntra)
 
-- 🤝 Group Project  [asos - Clone](https://github.com/shivam-m-7/asos) 
+- 🤝 Group Project  [ - Clone](https://github.com/shivam-m-7/asos) 
 
 - 🤝 Group Project  [Prcato - Clone](https://github.com/shivam-m-7/Practo.com-Clone)
 
