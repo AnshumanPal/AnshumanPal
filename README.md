@@ -31,7 +31,7 @@ working on various projects through remote collaboration.</h4>
 - ❓ How to reach me *anshuman.pal01@gmail.com*
  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
 
-- 📄[Resume]()
+- 📄[Resume](https://drive.google.com/file/d/1EZv39-ARliAB19R0VZw6Euta6rx9Zn5N/view)
 
 - ⚡ Fun fact *I am Sarcastic!*
 
